@@ -34,9 +34,8 @@
 		}else{
 			out.print("없음");
 		}
-	%> 입니다.
-	
-	<br>
-	저는 <%= intro %>>
+		
+	%> 입니다.<br>
+	저는 <%= intro %> ㅇㅇ
 </body>
 </html>
