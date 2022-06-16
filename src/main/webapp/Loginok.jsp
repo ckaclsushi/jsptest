@@ -36,6 +36,6 @@
 		}
 		
 	%> 입니다.<br>
-	저는 <%= intro %> ㅇㅇ
+	저는 <%= intro %> ㅇㅇawfwaf
 </body>
 </html>
